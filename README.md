@@ -4,6 +4,7 @@ Classify 5000 samples of consumer complaints in banks. These are classified as o
 
 
 
+![Screenshot 2022-04-30 13 57 02](https://user-images.githubusercontent.com/28681557/166091768-d6a29e4d-7ff7-43ab-8094-aa1ffeb3d892.png)
 
 
 BERT is used as a base of this classification model. These complaints are originally written in English and translated into Japanese.
